@@ -1,0 +1,31 @@
+2016-11-19 17:17:57.5705|INFO|EchoServerWindowsService.EchoServer|Start EchoServer constructor.
+2016-11-19 17:17:57.5705|INFO|EchoServerWindowsService.EchoServer|Start EchoServer constructor.
+2016-11-19 17:17:57.5975|INFO|EchoServerWindowsService.EchoServer|OnStart method is starting.
+2016-11-19 17:17:57.5975|INFO|EchoServerWindowsService.EchoServer|OnStart method is starting.
+2016-11-19 17:17:57.6596|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:17:57.6596|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:18:44.5462|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:18:44.5462|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:18:55.8669|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:18:55.8669|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:24:04.8826|ERROR|EchoServerWindowsService.EchoServer|Удаленный хост принудительно разорвал существующее подключение
+2016-11-19 17:24:04.8826|ERROR|EchoServerWindowsService.EchoServer|Удаленный хост принудительно разорвал существующее подключение
+2016-11-19 17:24:04.8826|ERROR|EchoServerWindowsService.EchoServer|Удаленный хост принудительно разорвал существующее подключение
+2016-11-19 17:24:04.8826|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.
+2016-11-19 17:24:04.8826|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.
+2016-11-19 17:30:36.7650|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.
+2016-11-19 17:30:36.7650|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.
+2016-11-19 17:30:36.7650|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.
+2016-11-19 17:30:36.7650|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.
+2016-11-19 17:30:48.1036|INFO|EchoServerWindowsService.EchoServer|Start EchoServer constructor.
+2016-11-19 17:30:48.1036|INFO|EchoServerWindowsService.EchoServer|Start EchoServer constructor.
+2016-11-19 17:30:48.1376|INFO|EchoServerWindowsService.EchoServer|OnStart method is starting.
+2016-11-19 17:30:48.1376|INFO|EchoServerWindowsService.EchoServer|OnStart method is starting.
+2016-11-19 17:30:48.1616|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:30:48.1616|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:31:01.7064|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:31:01.7064|INFO|EchoServerWindowsService.EchoServer|Wait a connection from the port [::1]:11000.
+2016-11-19 17:31:09.2308|INFO|EchoServerWindowsService.EchoServer|The server closed the connection to the client.
+2016-11-19 17:31:09.2308|INFO|EchoServerWindowsService.EchoServer|The server closed the connection to the client.
+2016-11-19 17:31:09.2308|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.
+2016-11-19 17:31:09.2308|INFO|EchoServerWindowsService.EchoServer|OnStop method is starting.

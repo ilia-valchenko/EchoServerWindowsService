@@ -1,0 +1,117 @@
+﻿Выполняется установка сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe.
+Выполняется фиксация сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Отсутствуют общие программы установки с атрибутом RunInstallerAttribute.Yes в сборке C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe.
+Удалите файл InstallState, поскольку отсутствуют программы установки.
+Выполняется установка сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Устанавливается служба EchoServer...
+Служба EchoServer успешно установлена.
+Создается исходный EventLog EchoServer в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Выполняется установка сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Устанавливается служба EchoServer...
+Создается исходный EventLog EchoServer в журнале Application...
+Выполняется откат для сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Восстанавливается исходное состояние журнала событий для источника EchoServer.
+Выполняется установка сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Устанавливается служба EchoServer...
+Создается исходный EventLog EchoServer в журнале Application...
+Выполняется откат для сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Восстанавливается исходное состояние журнала событий для источника EchoServer.
+Выполняется удаление сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Выполняется удаление источника EventLog EchoServer.
+Выполняется удаление службы EchoServer из системы...
+Служба EchoServer успешно удалена из системы.
+Попытка останова службы EchoServer.
+Выполняется установка сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Устанавливается служба EchoServer...
+Служба EchoServer успешно установлена.
+Создается исходный EventLog EchoServer в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Выполняется удаление сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Выполняется удаление источника EventLog EchoServer.
+Выполняется удаление службы EchoServer из системы...
+Служба EchoServer успешно удалена из системы.
+Попытка останова службы EchoServer.
+Выполняется установка сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Устанавливается служба EchoServer...
+Служба EchoServer успешно установлена.
+Создается исходный EventLog EchoServer в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Выполняется удаление сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Выполняется удаление источника EventLog EchoServer.
+Выполняется удаление службы EchoServer из системы...
+Служба EchoServer успешно удалена из системы.
+Выполняется установка сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+Устанавливается служба EchoServer...
+Служба EchoServer успешно установлена.
+Создается исходный EventLog EchoServer в журнале Application...
+Выполняется фиксация сборки 'C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe'.
+Затронуты следующие параметры:
+   logtoconsole = 
+   logfile = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.InstallLog
+   assemblypath = C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe

@@ -1,0 +1,11 @@
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe.config
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\NLog.config
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.exe
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\EchoServerWindowsService.pdb
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\NLog.dll
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\bin\Debug\NLog.xml
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\obj\Debug\EchoServerWindowsService.exe
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\obj\Debug\EchoServerWindowsService.pdb
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\obj\Debug\EchoServerWindowsService.ProjectInstaller.resources
+c:\users\ilia\documents\visual studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\obj\Debug\EchoServerWindowsService.csproj.GenerateResource.Cache
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\EchoServerWindowsService\obj\Debug\EchoServerWindowsService.csprojResolveAssemblyReference.cache

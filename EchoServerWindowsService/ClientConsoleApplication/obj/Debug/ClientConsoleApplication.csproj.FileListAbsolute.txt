@@ -1,0 +1,5 @@
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\ClientConsoleApplication\bin\Debug\ClientConsoleApplication.exe.config
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\ClientConsoleApplication\bin\Debug\ClientConsoleApplication.exe
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\ClientConsoleApplication\bin\Debug\ClientConsoleApplication.pdb
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\ClientConsoleApplication\obj\Debug\ClientConsoleApplication.exe
+C:\Users\Ilia\Documents\Visual Studio 2015\Projects\EchoServerWindowsService\ClientConsoleApplication\obj\Debug\ClientConsoleApplication.pdb
